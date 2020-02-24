@@ -1,0 +1,1 @@
+# Simple Web Password Generator in Django 3.0
